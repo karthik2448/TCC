@@ -1,6 +1,8 @@
 streamlit==1.27.2
 tensorflow==2.11.0
 keras==2.11.0
+h5py
 numpy
-Pillow
+pandas
 matplotlib
+scikit-learn
